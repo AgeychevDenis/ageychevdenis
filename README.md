@@ -20,6 +20,7 @@
 [![Sass](https://img.shields.io/badge/-Sass-FFE5EB?style=for-the-badge&logo=sass)](https://sass-scss.ru/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![Gulp](https://img.shields.io/badge/-Gulp-da4548?style=for-the-badge&logo=gulp&logoColor=fff)](https://gulpjs.com/)
+[![Figma](https://img.shields.io/badge/-Figma-deeef9?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001e36?style=for-the-badge&logo=adobephotoshop)](https://www.adobe.com/ru/products/photoshop.html)
 
 📈 My GitHub 
