@@ -1,4 +1,4 @@
-### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" >
 
 <a href="https://t.me/DenisAgeychev">
   <img alt="Ageychev Denis | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
