@@ -6,7 +6,7 @@
 
 <br />
 
-### Привет, меня зовут Денис - я начинающий Frontend-разработчик 
+### Привет, меня зовут Денис - я Frontend-разработчик 
 
 [![Codewars](https://www.codewars.com/users/AgeychevDenis/badges/large)](<https://www.codewars.com/users/AgeychevDenis>)
 
