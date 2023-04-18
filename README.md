@@ -19,7 +19,6 @@
 [![Modx](https://shields.io/badge/-Modx-1d5264?logo=modx&style=for-the-badge)](https://modx.ru/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFC618?style=for-the-badge&logo=javascript&logoColor=000)](https://learn.javascript.ru/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Sass](https://img.shields.io/badge/-Sass-FFE5EB?style=for-the-badge&logo=sass)](https://sass-scss.ru/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
