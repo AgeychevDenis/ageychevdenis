@@ -34,7 +34,18 @@
 
 📈 My GitHub 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ageychevdenis&show_icons=true&theme=algolia&hide=contribs,issues)
-<img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgeychevDenis&theme=algolia&layout=compact" />
+<table>
+  <tr>
+    <td>
+    <img height="195px" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=ageychevdenis&show_icons=true&theme=algolia&hide=contribs,issues" />
+    </td>
+    <td>
+<img height="195px" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgeychevDenis&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
