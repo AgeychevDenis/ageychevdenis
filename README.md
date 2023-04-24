@@ -16,6 +16,7 @@
 [![Vue](https://shields.io/badge/-Vue3-213634?logo=vue.js&style=for-the-badge)](https://v3.ru.vuejs.org/)&nbsp;
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)&nbsp;
 [![NextJS](https://shields.io/badge/-Next.js-0070f3?logo=next.js&style=for-the-badge)](https://nextjs.org/)&nbsp;
+[![NuxtJS](https://shields.io/badge/-Nuxt.js-001e26?logo=nuxt.js&style=for-the-badge)](https://nuxtjs.org/)&nbsp;
 [![Modx](https://shields.io/badge/-Modx-1d5264?logo=modx&style=for-the-badge)](https://modx.ru/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFC618?style=for-the-badge&logo=javascript&logoColor=000)](https://learn.javascript.ru/)&nbsp;
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)&nbsp;
