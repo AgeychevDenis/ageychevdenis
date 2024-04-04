@@ -6,7 +6,7 @@
 
 <br />
 
-### My name is Denis - I am a Frontend Developer 
+### My name is Denis - I`m a Frontend Developer 
 
 [![Codewars](https://www.codewars.com/users/AgeychevDenis/badges/large)](<https://www.codewars.com/users/AgeychevDenis>)
 
