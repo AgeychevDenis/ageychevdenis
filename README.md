@@ -12,11 +12,10 @@
 
 ### 💻 Tech Stack:
 
-[![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)&nbsp;
-[![Vue](https://shields.io/badge/-Vue3-213634?logo=vue.js&style=for-the-badge)](https://v3.ru.vuejs.org/)&nbsp;
-[![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)&nbsp;
-[![NextJS](https://shields.io/badge/-Next.js-0070f3?logo=next.js&style=for-the-badge)](https://nextjs.org/)&nbsp;
 [![NuxtJS](https://shields.io/badge/-Nuxt.js-001e26?logo=nuxt.js&style=for-the-badge)](https://nuxtjs.org/)&nbsp;
+[![Vue](https://shields.io/badge/-Vue3-213634?logo=vue.js&style=for-the-badge)](https://v3.ru.vuejs.org/)&nbsp;
+[![Vuetufy](https://shields.io/badge/-vuetify-282c34?logo=vuetify&style=for-the-badge)](https://vuetifyjs.com/en/)&nbsp;
+[![AntDesingVue](https://shields.io/badge/-ant_desing_vue-0f73f3?logo=ant-design&style=for-the-badge)](https://vuetifyjs.com/en/)&nbsp;
 [![Modx](https://shields.io/badge/-Modx-1d5264?logo=modx&style=for-the-badge)](https://modx.ru/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFC618?style=for-the-badge&logo=javascript&logoColor=000)](https://learn.javascript.ru/)&nbsp;
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)&nbsp;
@@ -29,7 +28,6 @@
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 [![Gulp](https://img.shields.io/badge/-Gulp-da4548?style=for-the-badge&logo=gulp&logoColor=fff)](https://gulpjs.com/)&nbsp;
 
 
