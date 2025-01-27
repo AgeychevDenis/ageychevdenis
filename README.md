@@ -12,8 +12,9 @@
 
 ### 💻 Tech Stack:
 
-[![NuxtJS](https://shields.io/badge/-Nuxt-001e26?logo=nuxt.js&style=for-the-badge)](https://nuxtjs.org/)&nbsp;
+[![NuxtJS](https://shields.io/badge/-Nuxt-001e26?logo=nuxt&style=for-the-badge)](https://nuxtjs.org/)&nbsp;
 [![Vue](https://shields.io/badge/-Vue-213634?logo=vue.js&style=for-the-badge)](https://vuejs.org/)&nbsp;
+[![NodeJS](https://shields.io/badge/-NodeJS-0d121c?logo=node.js&style=for-the-badge)](https:/nodejs.org/en)&nbsp;
 [![Strapi](https://shields.io/badge/-strapi-4945ff?logo=strapi&style=for-the-badge)](https://strapi.io/)&nbsp;
 [![Vuetufy](https://shields.io/badge/-vuetify-282c34?logo=vuetify&style=for-the-badge)](https://vuetifyjs.com/en/)&nbsp;
 [![AntDesingVue](https://shields.io/badge/-ant_desing_vue-0f73f3?logo=ant-design&style=for-the-badge)](https://antdv.com/)&nbsp;
